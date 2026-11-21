@@ -22,7 +22,7 @@ Notion Student OS is excellent at storing the semester. It is weaker at deciding
 
 ## How we used Devin Chat / AI coding
 
-This project was developed with an AI coding agent (Devin Chat–style workflow in Cursor) as the primary builder:
+This project was developed with an AI coding agent  as the primary builder:
 
 1. Framed the student problem and Student OS data model
 2. Scaffolded a Next.js app and Notion sync layer

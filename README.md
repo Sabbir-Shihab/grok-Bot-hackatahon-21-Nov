@@ -130,12 +130,5 @@ tests/                 # Unit tests for ranking, study plan, course health
 | `npm run lint` | ESLint               |
 | `npm test`     | Priority engine tests (Node's built-in test runner, Node 22.18+) |
 
-## Submission notes
-
-- Public GitHub repo with this README
-- Demo works with zero config
-- Notion sync documented for full Student OS integration
-
----
 
 Made for students who keep their life in Notion — and need the next move, not another empty page.
